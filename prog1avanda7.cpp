@@ -1,23 +1,4 @@
- /*
- Overall Score out of 100: 100
- Grading comments in the code below are marked with //-!-
- Program execution (55 points total)
- A.  5: Displays header information                            |
- B.  5: Displays table from 99 down to 0                       |
- C.  5: Columns are lined up                                   |
- D.  5: Table has random upper and lower-case values           |
- E.  5: Special character value in all multiple of 9 positions |
- F. 10: Table shown, prompt, then special character displayed  |
- G. 10: Special character is random                            |
- H. 10: Table changes each time program is run                 |
- Program Style (45 points total):
- A.  5: Followed program naming conventions     |
- B. 10: Meaningful identifier names             | 
- C. 10: Comments                                | 
- D.  5: Functional Decomposition                |
- E. 10: Appropriate data and control structures | 
- F.  5: Code Layout                             | 
- */
+
  
  
  
