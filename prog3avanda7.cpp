@@ -1,29 +1,4 @@
-/*
- Overall Score out of 100: 51.5 //-!- Score was 81.5 but applied 30 point late penalty
 
-Grading comments in the code below are marked with //-!-
-Not following the naming convention results in 5 pt. Deduction as stated above
-
- Program execution (55 points total)
- A. 5: Arrow marker moves left or right (on each move)         |
- B. 5: At +5 or -5 points, print message                       | -5 //-!- Does not display message
- C. 5: At +10 or -10 points, print message and end game        |
- D. 10: Display moves history table when toggled on            |
- E. 10: Use 2D array to store moves history table updates      | -5 //-!- Table is not updated correctly
- F.  3: Display previous 3 moves when moves history table on   |
- G.  5: User input of ‘r’ or ‘R’                               | -3 //-!- Does not update table with 16 numbers correctly
- H.  2: User input of ‘x’ or ‘X’                               |
- I.  5: Move number starts at 1 and increments each move       |
- J.  5: Display whether human or computer got the point        | 
- 
- Program Style (45 points total):
- A.  5: Followed program naming conventions     | -2.5 //-!- naming convention is prog3netid1netid2.cpp
- B. 10: Meaningful identifier names             | -2
- C. 10: Comments                                | -1 //-!- Missing TA information in header
- D.  5: Functional Decomposition                |
- E. 10: Appropriate data and control structures |
- F.  5: Code Layout                             |
-*/
 
 /* ------------------------------------------------
  * 0/1 Guessing Game
