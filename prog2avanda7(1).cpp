@@ -1,29 +1,3 @@
-/*
-Overall Score out of 100: 95
-
-Grading comments in the code below are marked with //-!-
-Not following the naming convention results in 5 pt. Deduction as stated above
-
- Program execution (55 points total)
- A. 10: Displays the board                                     |
- B.  5: Move the TT piece around(without error check)          |
- C. 15: Move all of the pieces around(without error check)     |
-        (A, B, and C above must work for the rest to be graded)|
- D.  2: Move numbers are shown in prompt for each move         |
- E.  3: Detects a win                                          |
- F.  5: Input of ‘x’ or ‘X’ exits the game                     |
- G.  5: Input of ‘-’ allows input to reset board and play      | -5
- H. 10: Attempt to move onto other piece or out of bounds moves|
-        As far as possible and gives error message.            |
-
- Program Style (45 points total):
- A.  5: Followed program naming conventions     |
- B. 10: Meaningful identifier names             |
- C. 10:yout                  Comments           |
- D.  5: Functional Decomposition                |
- E. 10: Appropriate data and control structures |
- F.  5: Code La            |
-*/
 
 /* --------------------------------------------------------
  * Traffic.cpp
