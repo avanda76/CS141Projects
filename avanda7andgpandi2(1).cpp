@@ -1,36 +1,7 @@
-/*
 
 
-Score: 96
-
-Grading comments in the code below are marked with //-!-
-Not following the naming convention results in 5 pt. Deduction as stated above
 
 
-Comments: There code is too long, and it's hard for a grader to look at that. 
-
- Program execution (55 points total)
- A. 5: Display the graphical board                              |
- B. 10: Move all of the pieces around(without error check)      |
-        (A and B above must work for the rest to be graded)     |
- C: 10: The initial configuration for the board should be read  |
- from a file called board.txt                                   |
- D.  check conditions.                               
-3:valid color or action items. Please retry.                    |
-      4:move a piece in the wrong direction.  Please retry.     |
-    4:move a piece on top of another piece.  Please retry.      |   
-    4:move a piece off the edge of the board.  Please retry.    |        
- E.  5: Input of ‘x’ or ‘X’ exits the game                      |
- G.  10: Reset the board. The subsequent board must be playable | 
- 
- Program Style (45 points total):
- A.  5: Followed program naming conventions     | -2 do not name file correctly
- B. 10: Meaningful identifier names             |
- C. 10: Comments                                | -2 no header info
- D.  5: Functional Decomposition                |
- E. 10: Appropriate data and control structures |
- F.  5: Code Layout                             |
-*/
 
 // Graphics demo program for getting started with QtCreator
 //
